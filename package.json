@@ -3,9 +3,9 @@
   "name": "SwissEphemeris",
   "description": "Swisseph bindings for Node.js",
   "version": "0.1.1",
-  "homepage": "http://github.com/pablovianini/SwissEphemeris",
+  "homepage": "http://github.com/pablovianini/swissephemeris",
   "repository": {
-    "url": "https://github.com/pablovianini/SwissEphemeris.git"
+    "url": "https://github.com/pablovianini/swissephemeris.git"
   },
   "main": "./lib/swisseph.js",
   "keywords": [
