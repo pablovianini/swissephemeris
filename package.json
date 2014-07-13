@@ -1,11 +1,11 @@
 {
   "author": "pablovianini",
-  "name": "node-swisseph",
+  "name": "SwissEphemeris",
   "description": "Swisseph bindings for Node.js",
   "version": "0.1.1",
-  "homepage": "http://github.com/pablovianini/node-swisseph",
+  "homepage": "http://github.com/pablovianini/SwissEphemeris",
   "repository": {
-    "url": "https://github.com/pablovianini/node-swisseph.git"
+    "url": "https://github.com/pablovianini/SwissEphemeris.git"
   },
   "main": "./lib/swisseph.js",
   "keywords": [
